@@ -1,0 +1,62 @@
+{
+  "class_names": [
+    "advertisement",
+    "budget",
+    "email",
+    "file folder",
+    "form",
+    "handwritten",
+    "invoice",
+    "letter",
+    "memo",
+    "news article",
+    "presentation",
+    "questionnaire",
+    "resume",
+    "scientific publication",
+    "scientific report",
+    "specification"
+  ],
+  "num_classes": 16,
+  "team_map": {
+    "invoice": "Finance",
+    "budget": "Finance",
+    "resume": "HR",
+    "questionnaire": "HR",
+    "advertisement": "Marketing",
+    "presentation": "Marketing",
+    "letter": "General_Ops",
+    "memo": "General_Ops"
+  },
+  "confidence_threshold": 0.7,
+  "model": {
+    "architecture": "resnet18",
+    "path": "C:\\Users\\ritul\\Desktop\\model-5\\new\\model\\resnet18.pth",
+    "in_channels": 3,
+    "img_size": 224,
+    "imagenet_mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "imagenet_std": [
+      0.229,
+      0.224,
+      0.225
+    ],
+    "grayscale_to_rgb": true
+  },
+  "saved_at": "2026-10-19T19:44:53",
+  "training": {
+    "baseline_test_acc": 0.34875,
+    "resnet_test_acc": 0.77375,
+    "chosen": "resnet18",
+    "final_test_stats": {
+      "threshold": 0.7,
+      "auto_routed": 559,
+      "review_queue": 241,
+      "auto_routed_pct": 69.88,
+      "accuracy_on_auto": 0.9034
+    }
+  }
+}

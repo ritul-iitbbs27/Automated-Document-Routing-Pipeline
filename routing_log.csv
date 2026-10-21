@@ -1,0 +1,74 @@
+timestamp,filename,predicted_class,confidence,needs_review,team,destination
+2026-10-21T12:20:25,test_01_00000.png,invoice,0.637,True,Human_Review,output\needs_review\test_01_00000.png
+2026-10-21T12:20:25,test_01_00001.png,budget,0.6117,True,Human_Review,output\needs_review\test_01_00001.png
+2026-10-21T12:20:25,test_01_00002.png,budget,0.804,False,Finance,output\budget\test_01_00002.png
+2026-10-21T12:20:25,test_01_00005.png,budget,0.4869,True,Human_Review,output\needs_review\test_01_00005.png
+2026-10-21T12:20:25,test_01_00006.png,budget,0.811,False,Finance,output\budget\test_01_00006.png
+2026-10-21T12:20:25,test_01_00007.png,budget,0.8667,False,Finance,output\budget\test_01_00007.png
+2026-10-21T12:20:25,test_03_00000.png,file folder,0.9555,False,General_Ops,output\file folder\test_03_00000.png
+2026-10-21T12:20:25,test_03_00001.png,file folder,0.9742,False,General_Ops,output\file folder\test_03_00001.png
+2026-10-21T12:20:25,test_03_00005.png,file folder,0.8851,False,General_Ops,output\file folder\test_03_00005.png
+2026-10-21T12:20:25,test_03_00006.png,file folder,0.4773,True,Human_Review,output\needs_review\test_03_00006.png
+2026-10-21T12:20:25,test_04_00000.png,memo,0.2155,True,Human_Review,output\needs_review\test_04_00000.png
+2026-10-21T12:20:25,test_04_00001.png,form,0.7411,False,General_Ops,output\form\test_04_00001.png
+2026-10-21T12:20:25,test_04_00002.png,specification,0.4655,True,Human_Review,output\needs_review\test_04_00002.png
+2026-10-21T12:20:25,test_04_00005.png,form,0.9623,False,General_Ops,output\form\test_04_00005.png
+2026-10-21T12:20:25,test_04_00006.png,handwritten,0.3582,True,Human_Review,output\needs_review\test_04_00006.png
+2026-10-21T12:20:25,test_04_00007.png,file folder,0.948,False,General_Ops,output\file folder\test_04_00007.png
+2026-10-21T12:20:25,test_04_00010.png,scientific report,0.4096,True,Human_Review,output\needs_review\test_04_00010.png
+2026-10-21T12:20:25,test_04_00011.png,form,0.7587,False,General_Ops,output\form\test_04_00011.png
+2026-10-21T12:20:25,test_04_00012.png,scientific report,0.3139,True,Human_Review,output\needs_review\test_04_00012.png
+2026-10-21T12:20:25,test_04_00015.png,form,0.6064,True,Human_Review,output\needs_review\test_04_00015.png
+2026-10-21T12:20:26,test_04_00016.png,specification,0.9158,False,General_Ops,output\specification\test_04_00016.png
+2026-10-21T12:20:26,test_04_00017.png,budget,0.5056,True,Human_Review,output\needs_review\test_04_00017.png
+2026-10-21T12:20:26,test_04_00020.png,scientific report,0.6653,True,Human_Review,output\needs_review\test_04_00020.png
+2026-10-21T12:20:26,test_04_00021.png,memo,0.4387,True,Human_Review,output\needs_review\test_04_00021.png
+2026-10-21T12:20:26,test_04_00022.png,email,0.3759,True,Human_Review,output\needs_review\test_04_00022.png
+2026-10-21T12:20:26,test_05_00000.png,handwritten,0.9999,False,General_Ops,output\handwritten\test_05_00000.png
+2026-10-21T12:20:26,test_05_00001.png,handwritten,0.7656,False,General_Ops,output\handwritten\test_05_00001.png
+2026-10-21T12:20:26,test_05_00002.png,handwritten,0.9984,False,General_Ops,output\handwritten\test_05_00002.png
+2026-10-21T12:20:26,test_05_00003.png,handwritten,0.9967,False,General_Ops,output\handwritten\test_05_00003.png
+2026-10-21T12:20:26,test_05_00005.png,handwritten,0.8837,False,General_Ops,output\handwritten\test_05_00005.png
+2026-10-21T12:20:26,test_05_00006.png,handwritten,0.9991,False,General_Ops,output\handwritten\test_05_00006.png
+2026-10-21T12:20:26,test_05_00007.png,handwritten,0.8543,False,General_Ops,output\handwritten\test_05_00007.png
+2026-10-21T12:20:26,test_05_00008.png,handwritten,0.8216,False,General_Ops,output\handwritten\test_05_00008.png
+2026-10-21T12:20:26,test_07_00000.png,letter,0.9818,False,General_Ops,output\letter\test_07_00000.png
+2026-10-21T12:20:26,test_07_00001.png,memo,0.6932,True,Human_Review,output\needs_review\test_07_00001.png
+2026-10-21T12:20:26,test_07_00005.png,letter,0.704,False,General_Ops,output\letter\test_07_00005.png
+2026-10-21T12:20:26,test_07_00006.png,letter,0.398,True,Human_Review,output\needs_review\test_07_00006.png
+2026-10-21T12:20:26,test_07_00010.png,letter,0.7708,False,General_Ops,output\letter\test_07_00010.png
+2026-10-21T12:20:26,test_07_00011.png,letter,0.9293,False,General_Ops,output\letter\test_07_00011.png
+2026-10-21T12:20:26,test_08_00012.png,memo,0.456,True,Human_Review,output\needs_review\test_08_00012.png
+2026-10-21T12:20:26,test_08_00013.png,scientific report,0.3423,True,Human_Review,output\needs_review\test_08_00013.png
+2026-10-21T12:20:26,test_08_00017.png,memo,0.5506,True,Human_Review,output\needs_review\test_08_00017.png
+2026-10-21T12:20:26,test_08_00018.png,memo,0.6348,True,Human_Review,output\needs_review\test_08_00018.png
+2026-10-21T12:20:26,test_08_00022.png,budget,0.2337,True,Human_Review,output\needs_review\test_08_00022.png
+2026-10-21T12:20:26,test_08_00023.png,memo,0.9621,False,General_Ops,output\memo\test_08_00023.png
+2026-10-21T12:20:26,test_08_00027.png,form,0.3655,True,Human_Review,output\needs_review\test_08_00027.png
+2026-10-21T12:20:26,test_08_00028.png,budget,0.4422,True,Human_Review,output\needs_review\test_08_00028.png
+2026-10-21T12:20:26,test_09_00000.png,email,0.2882,True,Human_Review,output\needs_review\test_09_00000.png
+2026-10-21T12:20:26,test_09_00001.png,news article,0.9923,False,General_Ops,output\news article\test_09_00001.png
+2026-10-21T12:20:26,test_09_00002.png,news article,0.9999,False,General_Ops,output\news article\test_09_00002.png
+2026-10-21T12:20:26,test_09_00003.png,news article,0.9917,False,General_Ops,output\news article\test_09_00003.png
+2026-10-21T12:20:26,test_09_00005.png,news article,0.728,False,General_Ops,output\news article\test_09_00005.png
+2026-10-21T12:20:26,test_09_00006.png,news article,0.9984,False,General_Ops,output\news article\test_09_00006.png
+2026-10-21T12:20:26,test_09_00007.png,letter,0.2379,True,Human_Review,output\needs_review\test_09_00007.png
+2026-10-21T12:20:26,test_09_00008.png,news article,0.9954,False,General_Ops,output\news article\test_09_00008.png
+2026-10-21T12:20:27,test_10_00000.png,presentation,0.7551,False,Marketing,output\presentation\test_10_00000.png
+2026-10-21T12:20:27,test_10_00001.png,presentation,0.7406,False,Marketing,output\presentation\test_10_00001.png
+2026-10-21T12:20:27,test_10_00002.png,file folder,0.7211,False,General_Ops,output\file folder\test_10_00002.png
+2026-10-21T12:20:27,test_10_00005.png,presentation,0.8829,False,Marketing,output\presentation\test_10_00005.png
+2026-10-21T12:20:27,test_10_00006.png,advertisement,0.5986,True,Human_Review,output\needs_review\test_10_00006.png
+2026-10-21T12:20:27,test_10_00007.png,presentation,0.9978,False,Marketing,output\presentation\test_10_00007.png
+2026-10-21T12:20:27,test_12_00000.png,resume,0.4899,True,Human_Review,output\needs_review\test_12_00000.png
+2026-10-21T12:20:27,test_12_00001.png,resume,0.9594,False,HR,output\resume\test_12_00001.png
+2026-10-21T12:20:27,test_12_00002.png,resume,0.9995,False,HR,output\resume\test_12_00002.png
+2026-10-21T12:20:27,test_12_00003.png,resume,0.9977,False,HR,output\resume\test_12_00003.png
+2026-10-21T12:20:27,test_12_00005.png,resume,0.9996,False,HR,output\resume\test_12_00005.png
+2026-10-21T12:20:27,test_12_00006.png,resume,0.9761,False,HR,output\resume\test_12_00006.png
+2026-10-21T12:20:27,test_12_00007.png,resume,0.9997,False,HR,output\resume\test_12_00007.png
+2026-10-21T12:20:27,test_12_00008.png,resume,0.8397,False,HR,output\resume\test_12_00008.png
+2026-10-21T12:20:27,test_12_00010.png,resume,0.9975,False,HR,output\resume\test_12_00010.png
+2026-10-21T12:20:27,test_12_00011.png,resume,0.9881,False,HR,output\resume\test_12_00011.png
+2026-10-21T12:20:27,test_12_00012.png,resume,0.9905,False,HR,output\resume\test_12_00012.png
+2026-10-21T12:20:27,test_12_00013.png,resume,0.9976,False,HR,output\resume\test_12_00013.png

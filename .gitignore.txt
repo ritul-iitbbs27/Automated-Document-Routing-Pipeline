@@ -1,0 +1,14 @@
+# Ignore the datasets and test inputs/outputs
+input/
+output/
+*.csv
+!requirements.txt
+
+# Ignore python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Ignore virtual environments (if you use one)
+venv/
+env/
